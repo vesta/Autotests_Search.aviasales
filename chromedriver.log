@@ -1,0 +1,49 @@
+[0.000][INFO]:      ChromeDriver 21.0.1180.4 /usr/local/bin/chromedriver
+[0.139][FINE]:      Initializing session with capabilities {
+   "browserName": "chrome",
+   "chrome.detach": true,
+   "chromeOptions": {
+      "detach": true
+   },
+   "cssSelectorsEnabled": true,
+   "javascriptEnabled": true,
+   "nativeEvents": false,
+   "platform": "ANY",
+   "rotatable": false,
+   "takesScreenshot": false,
+   "version": ""
+}
+
+[0.142][INFO]:      Using named testing interface
+[2.494][INFO]:      Connected to Chrome successfully. Version: 22.0.1229.94
+[2.537][FINE]:      Command received (/session/d93e2b44bff5a76b203846c8ab7a5298)
+[2.537][FINE]:      Command finished (/session/d93e2b44bff5a76b203846c8ab7a5298) with response {
+   "sessionId": "d93e2b44bff5a76b203846c8ab7a5298",
+   "status": 0,
+   "value": {
+      "acceptSslCerts": false,
+      "applicationCacheEnabled": false,
+      "browserConnectionEnabled": false,
+      "browserName": "chrome",
+      "chrome.chromedriverVersion": "21.0.1180.4",
+      "chrome.nativeEvents": false,
+      "cssSelectorsEnabled": true,
+      "databaseEnabled": false,
+      "handlesAlerts": true,
+      "javascriptEnabled": true,
+      "locationContextEnabled": false,
+      "nativeEvents": true,
+      "platform": "mac",
+      "rotatable": false,
+      "takesScreenshot": true,
+      "version": "22.0.1229.94",
+      "webStorageEnabled": true
+   }
+}
+
+[2.539][FINE]:      Command received (/session/d93e2b44bff5a76b203846c8ab7a5298/url) with params {
+   "url": "http://beta-search.aviasales.ru/"
+}
+
+[2.539][FINER]:     Waiting for all views to stop loading...
+[2.539][FINER]:     Done waiting for all views to stop loading
